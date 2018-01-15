@@ -1568,6 +1568,10 @@ i.icon-white {
 		padding-right:0;
 		padding:0;
 	}
+	#clip {
+		position: absolute;
+		margin-top: -77px;
+	}
 	
 	.navbar-inner {
 	 padding-right: 20px;
@@ -1602,6 +1606,10 @@ i.icon-white {
 		padding-left:0 ;
 		padding-right:0;
 		padding:0;
+	}
+		#clip {
+		position: absolute;
+		margin-top: -77px;
 	}
 	.navbar-inner {
 	 padding-right: 20px;
@@ -1638,6 +1646,9 @@ i.icon-white {
 	#header-wrapper {
 		padding-top:80px;
 	}
+	#clip {
+		display:none;
+	}
 
 	#team .team-thumb {
 		 margin-right: auto;
@@ -1656,6 +1667,9 @@ i.icon-white {
     /* Smartphones (portrait and landscape) ----------- */
 @media only screen  and (min-device-width : 320px)  and (max-device-width : 480px) {
 
+	#clip {
+		display:none;
+	}
  section.section {
  padding: 1em 0;
 }
@@ -1714,4 +1728,9 @@ i.icon-white {
 	.services .row{
 		margin-bottom:30px;
 	}
+	#clip {
+		position: absolute;
+		margin-top: -77px;
+	}
 }
+
