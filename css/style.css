@@ -1706,3 +1706,9 @@ i.icon-white {
 		width: 100%;
 	}
 }
+@media (min-width: 1200px){
+	
+	.services .span2 {
+		width: 164px;
+	}
+}
