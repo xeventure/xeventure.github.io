@@ -1711,4 +1711,7 @@ i.icon-white {
 	.services .span2 {
 		width: 164px;
 	}
+	.services .row{
+		margin-bottom:30px;
+	}
 }
