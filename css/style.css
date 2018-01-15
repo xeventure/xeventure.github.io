@@ -371,7 +371,7 @@ header .logo {
 
 /* --- Header slider --- */
 #header-wrapper.header-slider {
-	background: #444 url(../img/bg/bg-1.jpg) no-repeat center center fixed;
+	background: #444 url(../img/bg1.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1709,7 +1709,7 @@ i.icon-white {
 @media (min-width: 1200px){
 	
 	.services .span2 {
-		width: 164px;
+		width: 140px;
 	}
 	.services .row{
 		margin-bottom:30px;
